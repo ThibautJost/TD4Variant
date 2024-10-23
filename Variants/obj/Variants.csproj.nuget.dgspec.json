@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\titi7\\Source\\Repos\\TD4Variant\\Variants\\Variants.csproj": {}
+    "C:\\Users\\mathi\\source\\TD4Variant\\Variants\\Variants.csproj": {}
   },
   "projects": {
-    "C:\\Users\\titi7\\Source\\Repos\\TD4Variant\\Variants\\Variants.csproj": {
+    "C:\\Users\\mathi\\source\\TD4Variant\\Variants\\Variants.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\titi7\\Source\\Repos\\TD4Variant\\Variants\\Variants.csproj",
+        "projectUniqueName": "C:\\Users\\mathi\\source\\TD4Variant\\Variants\\Variants.csproj",
         "projectName": "Variants",
-        "projectPath": "C:\\Users\\titi7\\Source\\Repos\\TD4Variant\\Variants\\Variants.csproj",
-        "packagesPath": "C:\\Users\\titi7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\titi7\\Source\\Repos\\TD4Variant\\Variants\\obj\\",
+        "projectPath": "C:\\Users\\mathi\\source\\TD4Variant\\Variants\\Variants.csproj",
+        "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mathi\\source\\TD4Variant\\Variants\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\titi7\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
