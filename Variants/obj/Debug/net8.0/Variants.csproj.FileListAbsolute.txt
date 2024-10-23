@@ -1,0 +1,12 @@
+C:\Users\mathi\source\TD4Variant\Variants\bin\Debug\net8.0\Variants.deps.json
+C:\Users\mathi\source\TD4Variant\Variants\bin\Debug\net8.0\Variants.dll
+C:\Users\mathi\source\TD4Variant\Variants\bin\Debug\net8.0\Variants.pdb
+C:\Users\mathi\source\TD4Variant\Variants\obj\Debug\net8.0\Variants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\source\TD4Variant\Variants\obj\Debug\net8.0\Variants.AssemblyInfoInputs.cache
+C:\Users\mathi\source\TD4Variant\Variants\obj\Debug\net8.0\Variants.AssemblyInfo.cs
+C:\Users\mathi\source\TD4Variant\Variants\obj\Debug\net8.0\Variants.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\TD4Variant\Variants\obj\Debug\net8.0\Variants.sourcelink.json
+C:\Users\mathi\source\TD4Variant\Variants\obj\Debug\net8.0\Variants.dll
+C:\Users\mathi\source\TD4Variant\Variants\obj\Debug\net8.0\refint\Variants.dll
+C:\Users\mathi\source\TD4Variant\Variants\obj\Debug\net8.0\Variants.pdb
+C:\Users\mathi\source\TD4Variant\Variants\obj\Debug\net8.0\ref\Variants.dll
