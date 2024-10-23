@@ -365,3 +365,6 @@ FodyWeavers.xsd
 #Visual Paradigm files
 *.vpp.lck
 *.vpp.bak*
+
+
+.idea/*

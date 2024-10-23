@@ -1,0 +1,6 @@
+C:\Users\nolan\Desktop\Cours\Cours BUT\Annee 2\SEMESTRE 3\R3.04 Qualité de développement\TD4Variant\TestVariants\obj\Debug\net8.0\TestVariants.csproj.AssemblyReference.cache
+C:\Users\nolan\Desktop\Cours\Cours BUT\Annee 2\SEMESTRE 3\R3.04 Qualité de développement\TD4Variant\TestVariants\obj\Debug\net8.0\TestVariants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nolan\Desktop\Cours\Cours BUT\Annee 2\SEMESTRE 3\R3.04 Qualité de développement\TD4Variant\TestVariants\obj\Debug\net8.0\TestVariants.AssemblyInfoInputs.cache
+C:\Users\nolan\Desktop\Cours\Cours BUT\Annee 2\SEMESTRE 3\R3.04 Qualité de développement\TD4Variant\TestVariants\obj\Debug\net8.0\TestVariants.AssemblyInfo.cs
+C:\Users\nolan\Desktop\Cours\Cours BUT\Annee 2\SEMESTRE 3\R3.04 Qualité de développement\TD4Variant\TestVariants\obj\Debug\net8.0\TestVariants.csproj.CoreCompileInputs.cache
+C:\Users\nolan\Desktop\Cours\Cours BUT\Annee 2\SEMESTRE 3\R3.04 Qualité de développement\TD4Variant\TestVariants\obj\Debug\net8.0\TestVariants.sourcelink.json
